@@ -1,1 +1,1 @@
-INITIAL RECORD
+Hellow word

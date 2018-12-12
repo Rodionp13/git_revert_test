@@ -1,1 +1,1 @@
-wow is cool rpg
+initial record2 I

@@ -1,2 +1,1 @@
-initial record2 I
-12:50 RECORD
+12:56 RECORD
